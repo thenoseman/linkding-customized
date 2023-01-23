@@ -6,4 +6,4 @@ The original docker image is updated to include those changes.
 
 
 
-Find the original linking [here](https://github.com/sissbruecker/linkding).
+Find the original linkding [here](https://github.com/sissbruecker/linkding).
