@@ -5,3 +5,4 @@ This repository has just some very simple CSS-only changes to better fit my [Seh
 The original docker image is updated to include those changes.
 
 Find the original linkding [here](https://github.com/sissbruecker/linkding).
+
