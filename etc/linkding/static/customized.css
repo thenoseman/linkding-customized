@@ -14,6 +14,6 @@ li[ld-bookmark-item] .description a {
   color: #929a9a;
 }
 
-.content.container.grid-lg {
+.content.container {
   max-width: inherit;
 }
