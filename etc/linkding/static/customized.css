@@ -1,16 +1,16 @@
 /* Customization by thenoseman */
-li[data-is-bookmark-item] {
+li[ld-bookmark-item] {
   box-shadow: 0 .25rem 1rem rgba(48,55,66,.15);
   padding: 10px;
 }
 
-li[data-is-bookmark-item] .actions {
+li[ld-bookmark-item] .actions {
   margin-top: 9px;
   padding-top: 6px;
   border-top: 1px solid #ccc;
 }
 
-li[data-is-bookmark-item] .description a {
+li[ld-bookmark-item] .description a {
   color: #929a9a;
 }
 
